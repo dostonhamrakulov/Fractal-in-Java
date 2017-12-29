@@ -9,6 +9,4 @@
 <img src="https://github.com/dostonhamrakulov/Fractal-in-Java/blob/master/Images/image_1.PNG" align="left" width="150px"/>
 <img src="https://github.com/dostonhamrakulov/Fractal-in-Java/blob/master/Images/image_2.PNG" align="left" width="150px"/>
 
-### Author
-[Doston Hamrakulov](https://github.com/dostonhamrakulov)
 
