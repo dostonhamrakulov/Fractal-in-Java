@@ -1,5 +1,8 @@
 package main;
-
+/**
+* Created by Doston Hamrakulov doston.hamrakulov@gmail.com 15.11.2017
+*
+*/
 import fractal.Zoomable;
 
 import java.awt.Component;

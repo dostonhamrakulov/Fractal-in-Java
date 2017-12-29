@@ -1,5 +1,8 @@
 package math;
-
+/**
+* Created by Doston Hamrakulov doston.hamrakulov@gmail.com 15.11.2017
+*
+*/
 public class JavaComplex implements Mcomplex {
 	
 	private Mfloat real, imag;
